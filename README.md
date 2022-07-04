@@ -1,4 +1,4 @@
-# ThinkPad T450s X250 T450 X1C3 Monterey OpenCore 0.8.0
+# ThinkPad T450s X250 T450 X1C3 Monterey OpenCore 0.8.1
 <img align="right" src="/picture/Thismachine.png" alt="Lenovo Thinkpad T450s macOS Hackintosh OpenCore" width="400">
 
 [![macOS](https://img.shields.io/badge/macOS-12.4-blue)](https://developer.apple.com/documentation/macos-release-notes)
@@ -7,8 +7,9 @@
 
 **免责声明:**
 
-### 作者：[@CLAY-BIOS](https://github.com/CLAY-BIOS)  
+### 作者：Triangle-D
 在开始之前，请阅读整个自述文件。
+本项目主要基于CLAY-BIOS的相关项目 大部分均为复刻过来 仅仅更新了最新的OC https://github.com/CLAY-BIOS/Lenovo-ThinkPad-T450s-Hackintosh-OpenCore
 我对可能造成的任何损失不承担任何责任。
 如果您发现错误或有任何改进（无论是在配置中还是在文档中），请考虑打开问题或拉取请求。
 如果您发现我的工作有用，可以考虑点击右上角的⭐️Star。
